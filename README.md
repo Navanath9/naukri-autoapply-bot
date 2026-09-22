@@ -40,8 +40,8 @@ Keyword: "software engineer" → Tab 5 (Page 1) + Tab 6 (Page 2)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/lordzohar/Naukri-autoapply-bot.git
-cd Naukri-autoapply-bot
+git clone https://github.com/lordzohar/naukri-autoapply-bot.git
+cd naukri-autoapply-bot
 ```
 
 ### 2. Install dependencies
@@ -152,4 +152,4 @@ Naukri-autoapply-bot/
 
 ## 🔗 Original Repository
 
-[github.com/lordzohar/Naukri-autoapply-bot](https://github.com/lordzohar/Naukri-autoapply-bot)
+[github.com/lordzohar/Naukri-autoapply-bot](https://github.com/lordzohar/naukri-autoapply-bot)

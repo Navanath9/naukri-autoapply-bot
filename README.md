@@ -40,7 +40,7 @@ Keyword: "software engineer" → Tab 5 (Page 1) + Tab 6 (Page 2)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/lordzohar/naukri-autoapply-bot.git
+git clone https://github.com/Navanath9/naukri-autoapply-bot.git
 cd naukri-autoapply-bot
 ```
 

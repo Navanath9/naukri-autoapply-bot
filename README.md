@@ -152,4 +152,4 @@ Naukri-autoapply-bot/
 
 ## 🔗 Original Repository
 
-https://github.com/lordzohar/Naukri-autoapply-bot.git
+https://github.com/Navanath9/naukri-autoapply-bot.git
